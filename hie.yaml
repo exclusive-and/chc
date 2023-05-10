@@ -1,0 +1,5 @@
+cradle:
+  cabal:
+    - path: "./chc-core/src"
+      component: "lib:chc-core"
+
